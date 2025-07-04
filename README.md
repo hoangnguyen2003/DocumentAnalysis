@@ -9,8 +9,7 @@
 ## :star2: Introduction
 
 * <p align="justify">Developed a Python tool to extract, summarize, and generate Q&A from a PDF document.</p>
-* <p align="justify">Implemented PDF text extraction with PyMuPDF and text processing with NLTK.
-</p>
+* <p align="justify">Implemented PDF text extraction with PyMuPDF and text processing with NLTK.</p>
 * <p align="justify">Utilized Hugging Face transformers (T5, RoBERTa) for summarization and question-answering.</p>
 * <p align="justify">Applied passage splitting and duplicate question handling to improve output quality.</p>
 
