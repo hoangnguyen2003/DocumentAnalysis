@@ -1,0 +1,5 @@
+pdf_path: 'independent-assessment-of-the-origins-of-sars-cov-2-by-sago.pdf'
+
+summarizer_model: 't5-small'
+qg_model: 'valhalla/t5-base-qg-hl'
+qa_model: 'deepset/roberta-base-squad2'
