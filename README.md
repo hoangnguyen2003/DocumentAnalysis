@@ -15,6 +15,7 @@
 
 ![summary](/images/summary.PNG)
 ![qa](/images/qa.PNG)
+
 Figure: *An example of a WHO document studying SARS-CoV-2*
 
 ## :wrench: Installation
