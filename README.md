@@ -13,8 +13,8 @@
 * <p align="justify">Utilized Hugging Face transformers (T5, RoBERTa) for summarization and question-answering.</p>
 * <p align="justify">Applied passage splitting and duplicate question handling to improve output quality.</p>
 
-![summary](/images/summary.png)
-![qa](/images/qa.png)
+![summary](/images/summary.PNG)
+![qa](/images/qa.PNG)
 
 ## :wrench: Installation
 
