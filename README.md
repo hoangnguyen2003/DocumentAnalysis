@@ -34,7 +34,7 @@ A folder called `DocumentAnalysis` should appear.
 
 Make sure that you have Anaconda installed. If not - follow this [miniconda installation](https://www.anaconda.com/docs/getting-started/miniconda/install).
 
-<p align="justify">You can re-create our conda enviroment from `environment.yml` file:</p>
+You can re-create our conda enviroment from `environment.yml` file:
 
 ```bash
 cd DocumentAnalysis
